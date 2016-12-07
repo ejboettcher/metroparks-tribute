@@ -1,0 +1,17 @@
+39.869632, -84.278037, 955 Aullwood Road, Englewood, Ohio 45414,Aullwood Garden
+39.874982, -84.0966820, 7800 East Shull Road, Dayton, OH 45424,Carriage Hill
+39.655372, -84.224291 , 6733 Springboro Pike, Dayton, OH 45449,Cox Arboretum
+39.769264, -84.183630 , 510 Webster Street, Dayton, OH 45402,Deeds Point
+39.786517, -84.121711 , 1385 Harshman Road, Dayton, OH 45431,Eastwood
+39.875566, -84.282116 , 4361 W. National Road, Vandalia, OH 45377,Englewood
+39.643983, -84.402123 , 7101 Conservancy Road, Germantown, OH 45327,Germantown
+39.709613, -84.178076 , 2471 Deep Hollow Road, Oakwood, OH 45419,Hills &#038; Dales
+39.824879, -84.065736 , 4095 Lower Valley Pike, Dayton, OH 45424,Huffman
+39.780140, -84.198163 , 101 E. Helena Street, Dayton, OH 45404,Island
+39.716596, -84.266276 , 4790 Frytown Road, Dayton, OH 45417,Possum Creek
+39.616095, -84.091784 , 4178 Conference Road, Bellbrook, Ohio 45305,Sugarcreek
+39.757328, -84.206995 , 50 N Edwin C. Moses Boulevard, Dayton, OH 45402,Sunrise
+39.890022, -84.208458 , 2102 US 40, Vandalia, OH 45377,Taylorsville
+39.598884, -84.365390 , 9688 Eby Road, Germantown, OH 45327,Twin Creek
+39.798636, -84.205623 , 1301 E. Siebenthaler Avenue, Dayton, Ohio 45414,Wegerzyn Gardens
+39.771635, -84.246288 , 1441 Wesleyan Road, Dayton, OH 45406,Wesleyan
